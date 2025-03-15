@@ -1,0 +1,7 @@
+lib/*
+target/*
+.clangd
+./dev
+build.ninja
+.ninja_log
+compile_commands.json
